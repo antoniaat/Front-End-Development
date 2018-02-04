@@ -1,0 +1,41 @@
+body {
+    font-family: Lato, sans-serif;
+    margin: 0 auto;
+}
+
+header {
+    background: url("images/header.jpg");
+    background-size: cover;
+    margin: 0;
+}
+
+header > h1 {
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 95px;
+}
+
+.content {
+    float: left;
+    width: 41%;
+    padding: 77px;
+}
+
+aside > img {
+    width: 500px;
+}
+
+.content > img {
+    width: 80%;
+}
+
+aside {
+    float: right;
+    padding-right: 88px;
+    padding-top: 111px;
+}
+
+article > image {
+    width: 65%;
+}
