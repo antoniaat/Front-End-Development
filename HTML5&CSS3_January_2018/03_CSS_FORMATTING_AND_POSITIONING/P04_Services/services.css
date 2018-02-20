@@ -1,0 +1,36 @@
+body {
+    background-color: #F0F0E8;
+    font-family: 'OpenSans-ExtraBold' , 'Helvetica', 'sans-serif';
+}
+
+body > h1 {
+    text-align: center;
+    color: #009288;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+body > p, body > h3 {
+    text-align: center;
+    color: #4d5560;
+    font-weight: bold;
+}
+
+section {
+    text-align: center;
+}
+
+article {
+    display: inline-block;
+    width: 185px;
+    text-align: center;
+    color: #4d5560;
+    padding: 15px;
+    border-left: 8px solid transparent;
+}
+
+article:hover {
+    background-color: #F6F6F5;
+    border-left: 8px solid #009288;
+    cursor: pointer;
+}
