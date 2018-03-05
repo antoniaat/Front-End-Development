@@ -1,0 +1,71 @@
+@media all and (min-width: 780px) and  (max-width: 960px){
+    body {
+        width: 100%;
+    }
+
+    body #wrapper {
+        width: 100%;
+    }
+
+    body #wrapper > aside {
+        display: inline;
+    }
+}
+
+@media all and (min-width: 640px) and  (max-width: 780px){
+    body #wrapper > aside {
+        display: inline;
+    }
+}
+
+@media all and (min-width: 480px) and  (max-width: 640px){
+    body #wrapper > aside {
+        display: inline;
+    }
+
+    body #wrapper > header h1 a img {
+        height: auto;
+        text-align: center;
+    }
+
+    #wrapper {
+        display: flex;
+    }
+    body #wrapper > header {
+        flex-direction: column;
+    }
+
+    body #wrapper > header h1 a img {
+        margin: 0 auto;
+    }
+
+    body #wrapper > header h1 a span {
+        width: 100%;
+        text-align: center;
+
+    }
+
+    body #wrapper > header nav ul li {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    body #wrapper > section {
+        width: 100%;
+    }
+
+    body #wrapper > aside {
+        width: 100%;
+        display: flex;
+    }
+
+    body #wrapper > aside div {
+           flex-direction: row;
+        /*width: 50%;*/
+        flex-basis: 50%;
+       }
+
+    body #wrapper > aside div:first-child {
+        float: left;
+    }
+}

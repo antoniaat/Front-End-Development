@@ -1,0 +1,60 @@
+@media screen and (max-width: 740px) {
+    .clearfix {
+        text-align: center;
+    }
+
+    #info, #photo {
+        float: none;
+    }
+
+    h2 {
+        text-align: center;
+    }
+
+    #skills-left ul, #skills-right ul {
+        display: inline-block;
+        text-align: left;
+
+    }
+
+    .clearfix ul li, #skills-right ul li {
+        width: 114px;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    .clearfix ul li {
+        display: inline-block;
+        width: 90px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #skills-right h4, #skills-left h4 {
+        text-align: left;
+        padding-left: 25px;
+    }
+
+    .clearfix ul li {
+        width: 85px;
+    }
+
+    #skills-right ul, #skills-left ul {
+        width: 322px;
+    }
+
+    #skills-right ul li {
+        width: 70px;
+    }
+
+    #skills-right ul li {
+        width: 112px;
+    }
+
+    #education p , #experience p, #articles p{
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+        text-align: left;
+    }
+}
