@@ -4,26 +4,34 @@ body {
     width: 40%;
     margin: 0 auto;
     padding-top: 20px;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
-h1{
+h1 {
     background-color: cadetblue;
     margin: 0;
     padding: 10px 20px;
 }
 
-article{
+article {
     background-color: #DDDDDD;
     padding: 10px 20px;
 }
 
-#menu{
+#menu {
     padding: 3px 7px;
     border-radius: 15px;
 }
 
-input[type="text"]{
+input, select {
+    outline: none;
+    padding: 5px;
+}
+select {
+    margin-bottom: 12px;
+}
+
+input[type="text"] {
     border: 1px solid darkgray;
     border-radius: 15px;
 }
@@ -38,5 +46,4 @@ input[type="button"] {
     cursor: pointer;
     color: #8198A2;
     text-transform: uppercase;
-
 }

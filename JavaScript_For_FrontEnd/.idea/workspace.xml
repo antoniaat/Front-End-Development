@@ -13,90 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="list-of-items.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events/Lab/04_List-Of-Items/list-of-items.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events/Lab/05_Add-Delete/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="stopwatch.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events/Lab/06-Stopwatch/stopwatch.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="text-from-list.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Lab/01_TextFromList/text-from-list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Lab/02_SearchInList/list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="buttons.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Lab/03_LinkButtons/buttons.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="towns.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Lab/04_SelectableTowns/towns.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="incrementCounter.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Exercise/01_IncrementCounter/incrementCounter.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="timer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Exercise/02_Timer/timer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Exercise/03_FormValidation/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -159,7 +76,7 @@
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events/Exercise/02_FillDropdown" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
@@ -186,18 +103,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530895765822</updated>
-      <workItem from="1530895767002" duration="96000" />
+      <workItem from="1530895767002" duration="661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96000" />
+    <option name="totallyTimeSpent" value="661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24983476" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -215,6 +131,25 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -239,9 +174,6 @@
     <entry file="file://$PROJECT_DIR$/02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events/Lab/03_Collect-List/collect-list.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events/Lab/04_List-Of-Items/list-of-items.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events/Lab/05_Add-Delete/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -256,13 +188,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Lab/02_SearchInList/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -287,6 +212,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Exercise/03_FormValidation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Exercise/02_Timer/timer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -294,12 +226,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Exercise/03_FormValidation/index.html">
+    <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Lab/02_SearchInList/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events/Lab/04_List-Of-Items/list-of-items.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
