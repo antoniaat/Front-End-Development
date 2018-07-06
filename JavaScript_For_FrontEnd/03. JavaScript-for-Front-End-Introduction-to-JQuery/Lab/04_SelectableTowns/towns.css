@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
+li {
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px;
+}
+
+ul {
+    padding: 0;
+}
+
 body {
     width: 40%;
     margin: 20px auto;
@@ -38,7 +48,7 @@ button{
 button:hover {
     color: white;
     background: #DDDDDD;
-    border: 2px solid white;
+    cursor: pointer;
 }
 
 #selectedTowns{
