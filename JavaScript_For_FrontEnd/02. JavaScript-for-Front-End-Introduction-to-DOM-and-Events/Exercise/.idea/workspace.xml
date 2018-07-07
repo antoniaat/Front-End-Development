@@ -14,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="filldropdown.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_FillDropdown/filldropdown.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="filldropdown.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02_FillDropdown/filldropdown.css">
           <provider selected="true" editor-type-id="text-editor" />
@@ -83,11 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="converter.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="converter.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07_DistanceConverter/converter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="26" column="54" lean-forward="true" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+            <state relative-caret-position="280">
+              <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="distanceConverter.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07_DistanceConverter/distanceConverter.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -106,6 +106,7 @@
         <option value="$PROJECT_DIR$/06-Delete-From-Table/index.html" />
         <option value="$PROJECT_DIR$/01_Subtraction/index.css" />
         <option value="$PROJECT_DIR$/05_Notification/styles.css" />
+        <option value="$PROJECT_DIR$/07_DistanceConverter/distanceConverter.css" />
       </list>
     </option>
   </component>
@@ -124,7 +125,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="510" />
     <option name="y" value="20" />
     <option name="width" value="1335" />
@@ -214,12 +215,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530982973984</updated>
-      <workItem from="1530982976584" duration="952000" />
+      <workItem from="1530982976584" duration="1525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="952000" />
+    <option name="totallyTimeSpent" value="1525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -318,8 +319,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/07_DistanceConverter/converter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="26" column="54" lean-forward="true" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+        <state relative-caret-position="280">
+          <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_DistanceConverter/distanceConverter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
         </state>
       </provider>
     </entry>
