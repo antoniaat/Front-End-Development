@@ -37,6 +37,7 @@ button{
     cursor: pointer;
     color:darkslateblue;
     text-transform: uppercase;
+    outline: none;
 }
 
 #notification {

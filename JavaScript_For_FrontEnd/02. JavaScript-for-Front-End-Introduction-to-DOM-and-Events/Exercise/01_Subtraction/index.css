@@ -24,3 +24,8 @@ input[type="text"] {
      font-weight: 700;
      color: cadetblue;
  }
+
+ #wrapper input {
+     padding: 4px;
+     border: 2px solid cadetblue;
+ }
