@@ -1,3 +1,0 @@
-function loadTitle() {
-    // TODO
-}
