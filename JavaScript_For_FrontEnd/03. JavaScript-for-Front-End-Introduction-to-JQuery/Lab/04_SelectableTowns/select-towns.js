@@ -9,7 +9,7 @@ function attachEvents() {
             $(this).removeClass('select');
             $(this).css('background', '');
             let i = allTowns.indexOf($(this).text());
-            if(i !== -1) {
+            if (i !== -1) {
                 allTowns.splice(i, 1);
             }
         }
@@ -35,3 +35,24 @@ function attachEvents() {
 function filterCities(value, index, self) {
     return self.indexOf(value) === index;
 }
+
+// Similar solution >
+
+//
+// function attachEvents() {
+//     $('#items li').on('click', select);
+//
+//     function select() {
+//         if($(this).attr('data-selected')){
+//             $(this).removeAttr('data-selected');
+//             $(this).css('background', "");
+//         } else {
+//             $(this).attr("data-selected", true);
+//             $(this).css('background',"#DDD");
+//         }
+//     }
+//
+//     $('#showTownsButton').on('click', function () {
+//         $('#selectedTowns').text($('#items li[data-selected]').toArray().map(li => li.textContent).join(', '));
+//     })
+// }
