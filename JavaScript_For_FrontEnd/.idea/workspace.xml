@@ -13,7 +13,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="list-of-items.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events/Lab/04_List-Of-Items/list-of-items.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -25,6 +38,7 @@
         <option value="$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Exercise/01_IncrementCounter/incrementCounter.html" />
         <option value="$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Exercise/02_Timer/timer.html" />
         <option value="$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Exercise/03_FormValidation/index.html" />
+        <option value="$PROJECT_DIR$/02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events/Lab/04_List-Of-Items/list-of-items.js" />
       </list>
     </option>
   </component>
@@ -43,7 +57,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="510" />
     <option name="y" value="20" />
     <option name="width" value="1335" />
@@ -66,6 +80,24 @@
               <item name="JavaScript_For_FrontEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript_For_FrontEnd" type="462c0819:PsiDirectoryNode" />
               <item name="01. JavaScript-for-Front-End-Introduction-to-JavaScript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript_For_FrontEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript_For_FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript_For_FrontEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript_For_FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript_For_FrontEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript_For_FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="04_List-Of-Items" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,50 +136,51 @@
       <option name="presentableId" value="Default" />
       <updated>1530895765822</updated>
       <workItem from="1530895767002" duration="661000" />
+      <workItem from="1531154463117" duration="497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="661000" />
+    <option name="totallyTimeSpent" value="1158000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24983476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -184,13 +217,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Lab/01_TextFromList/text-from-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Lab/01_TextFromList/text-from-list.html" />
     <entry file="file://$PROJECT_DIR$/03. JavaScript-for-Front-End-Introduction-to-JQuery/Lab/03_LinkButtons/buttons.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -235,6 +262,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events/Lab/04_List-Of-Items/list-of-items.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. JavaScript-for-Front-End-Introduction-to-DOM-and-Events/Lab/04_List-Of-Items/list-of-items.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
