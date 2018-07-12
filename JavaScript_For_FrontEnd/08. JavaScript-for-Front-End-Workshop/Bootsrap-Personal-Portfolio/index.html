@@ -8,6 +8,7 @@
     <!--CSS-->
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/minty-bootstrap.css">
+    <link rel="stylesheet" href="css/scrolling-nav.css">
     <link rel="stylesheet" href="css/styles.css">
 
     <!--JS-->
@@ -18,71 +19,72 @@
             crossorigin="anonymous"></script>
     <script src="js/custom-functionality.js"></script>
 
+    <!-- Custom styles for this template -->
+    <link href="css/scrolling-nav.css" rel="stylesheet">
+
+    <!--Font Awesome-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css"
+          integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
 </head>
-<body>
-
+<body id="page-top">
 <!--Navigation-->
-<!-- TODO: Add scrolling animation-->
-
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary" data-spy="scroll" data-target=".navbar" data-offset="50">
-    <a class="navbar-brand" href="#">Portfolio</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01"
-            aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
-        <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="#about">About <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#experience">Experience</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#skills">Skills</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Education</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Volunteering</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#contact">Contact</a>
-            </li>
-        </ul>
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">elizabeth.</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse w-100 order-3 dual-collapse2" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#about">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#experience">Experience</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#skills">Skills</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Education</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contact">Contact</a>
+                </li>
+            </ul>
+        </div>
     </div>
 </nav>
 
 <!--About-->
 <div class="jumbotron text-center m-auto" id="about">
     <div class="col-md-2 m-auto d-block">
-        <img src="images/user.png" class="img-fluid mb-5" alt="profile-photo">
+        <img src="images/user.png" class="img-fluid mb-5 mt-4" alt="profile-photo">
     </div>
 
     <div class="col-md-11 m-auto d-block">
-        <h1 class="display-3 pb-4 text-uppercase">anjelina jolie</h1>
+        <h1 class="display-3 pb-4 text-uppercase">Elizabeth Taylor</h1>
 
         <p class="lead">Web Developer - Graphic Artist - User Experience Designer
         </p>
         <hr class="my-4">
-        <p class="text-justify">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes
-            the
-            complete
-            source
-            files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy
-            customization.Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the
-            complete source
-            files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy
-            customization.Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the
-            complete source
-            files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy
-            customization.Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the
-            complete source
-            files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy
-            customization.Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the
-            complete source
-            files including HTML, CSS, and JavaScript.</p>
+        <p class="text-justify">My name is Elizabeth Taylor, and I’m a freshman studying Software Engineering in
+            Software University in the beautiful Sofia, Bulgaria.
+
+            I love to solve problems. Whether it’s finding the most elegant way to write a line of code or figuring out
+            which chord fits best into a progression, I love the challenge of finding a way and discovering solutions.
+            Maybe that’s why I love writing and the satisfaction that comes from finding just the right word; or why I
+            study psychology and rationality in my spare time to figure out how people think. As long as there’s a
+            problem to solve or a challenge to puzzle over, it’s bound to be something I love!
+
+
+        </p>
+
+        <p class="text-primary text-left">
+            –> Wondering if I might be a good fit for your company? Check out my resume and my LinkedIn profile!
+        </p>
+
         <p class="lead">
             <a class="btn btn-primary btn-lg mt-3" href="#" role="button">Learn more</a>
         </p></div>
@@ -174,9 +176,11 @@
             <fieldset>
                 <div class="form-group">
                     <label for="exampleInputEmail1">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                           placeholder="Enter email">
                     <small id="emailHelp" class="form-text text-muted">I'll never share your email with anyone else
-                        .</small>
+                        .
+                    </small>
                 </div>
                 <div class="form-group">
                     <label for="exampleInputPassword1">Password</label>
@@ -208,7 +212,7 @@
                     </div>
                     <div class="form-check ">
                         <label class="form-check-label">
-                            <input class="form-check-input" type="checkbox" value="" >
+                            <input class="form-check-input" type="checkbox" value="">
                             Option two is disabled
                         </label>
                     </div>
@@ -220,5 +224,22 @@
     </div>
 </div>
 
+<!-- Footer -->
+<footer class="py-3 bg-primary">
+    <div class="container text-center text-white">
+        <p class="m-0">Copyright &copy; e.taylor 2018</p>
+        <i class="fas fa-code-branch"></i>
+
+        <p class="m-0">Designed by <a href="http://antoniyaat.com"
+                                      class="text-light">antoniyaat</a></p>
+        <i class="fas fa-code-branch"></i>
+
+        <p class="m-0"> Bootstrap Theme by <a href="https://bootswatch.com/minty/"
+                                              class="text-light">bootswatch</a></p>
+    </div>
+</footer>
+
+<!-- Custom JavaScript for this theme -->
+<script src="js/scrolling-nav.js"></script>
 </body>
 </html>
