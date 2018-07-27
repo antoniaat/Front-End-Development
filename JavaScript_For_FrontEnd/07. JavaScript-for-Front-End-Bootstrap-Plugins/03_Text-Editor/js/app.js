@@ -1,0 +1,2 @@
+$('#editor').wysiwyg();
+$('#editor').cleanHtml()
