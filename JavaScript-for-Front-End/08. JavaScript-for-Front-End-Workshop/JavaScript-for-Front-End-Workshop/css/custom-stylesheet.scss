@@ -1,0 +1,13 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+$secondary-color: #ddb7ff;
+
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+p {
+  background: $secondary-color;
+}

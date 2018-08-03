@@ -6,22 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!--CSS-->
-    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/minty-bootstrap.css">
     <link rel="stylesheet" href="css/scrolling-nav.css">
     <link rel="stylesheet" href="css/styles.css">
 
-    <!--JS-->
-    <script src="js/bootstrap.js"></script>
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
-            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-            crossorigin="anonymous"></script>
-    <script src="js/bootstrap.bundle.js"></script>
-    <script src="js/custom-functionality.js"></script>
+    <script src="lib/jquery-3.3.1.min.js"></script>
 
     <!-- Custom styles for this template -->
     <link href="css/scrolling-nav.css" rel="stylesheet">
-
     <!--Font Awesome-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css"
           integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
@@ -35,9 +28,7 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
-    <!--Collapse JS-->
-    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
-    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>-->
+    <link rel="stylesheet" href="css/custom-stylesheet.scss">
 </head>
 <body id="page-top">
 <!--Navigation-->
@@ -324,7 +315,6 @@
         </div>
     </div>
 </div>
-</div>
 
 <!--Contact-->
 <div class="jumbotron text-center m-auto" id="contact">
@@ -336,8 +326,8 @@
                     <label for="exampleInputEmail1">Email address</label>
                     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
                            placeholder="Enter email">
-                    <small id="emailHelp" class="form-text text-muted">I'll never share your email with anyone else
-                        .
+                    <small id="emailHelp" class="form-text text-muted">
+                        I'll never share your email with anyone else
                     </small>
                 </div>
                 <div class="form-group">
@@ -367,17 +357,10 @@
                             I agree to terms
                         </label>
                     </div>
-                    <!--<div class="form-check ">-->
-                    <!--<label class="form-check-label">-->
-                    <!--<input class="form-check-input" type="checkbox" value="">-->
-                    <!--Option two is disabled-->
-                    <!--</label>-->
-                    <!--</div>-->
                 </fieldset>
                 <button type="submit" class="btn btn-primary">Submit</button>
             </fieldset>
         </form>
-
     </div>
 </div>
 
@@ -386,17 +369,17 @@
     <div class="container text-center text-white">
         <p class="m-0">Copyright &copy; e.taylor 2018</p>
         <i class="fas fa-code-branch"></i>
-
-        <!--<p class="m-0">Designed by <a href="http://antoniyaat.com"-->
-                                      <!--class="text-light">antoniyaat</a></p>-->
         <i class="fas fa-code-branch"></i>
 
-        <p class="m-0"> Bootstrap Theme by <a href="https://bootswatch.com/minty/"
-                                              class="text-light">bootswatch</a></p>
+        <p class="m-0"> Bootstrap Theme by <a href="https://bootswatch.com/minty/" class="text-light">bootswatch</a></p>
     </div>
 </footer>
 
+<!--JS-->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+
 <!-- Custom JavaScript for this theme -->
-<script src="js/scrolling-nav.js"></script>
+<script src="js/app.js"></script>
 </body>
 </html>
