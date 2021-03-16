@@ -1,0 +1,221 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+body, ul {
+    margin: 0;
+    font-family: Raleway, sans-serif;
+}
+
+header {
+    background-image: url("images/home-page-apply.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo {
+    padding-left: 40px;
+    float: left;
+    width: 75px;
+    padding-top: 15px;
+}
+
+#header-box {
+    text-align: center;
+    margin: 90px auto;
+    padding: 25px;
+    width: 28%;
+    color: #fff;
+    padding-bottom: 120px;
+}
+
+nav {
+    width: 90%;
+    text-align: right;
+    margin: 0 auto;
+    padding: 20px 5px;
+    font-weight: bold;
+}
+
+#languages article, nav ul li {
+    display: inline-block;
+    padding: 15px 19px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+header h1 {
+    font-size: 35px;
+}
+
+#languages h1, header button {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+header button {
+    background: 0 0;
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 14px;
+    margin: 10px 10px 80px;
+}
+
+header button:hover, header button:hover i {
+    cursor: pointer;
+    background: #fff;
+    color: #080d29;
+}
+
+main {
+    background: #fff;
+}
+
+#languages {
+    text-align: center;
+    padding: 0 50px 0;
+    margin-top: -45px;
+}
+
+#languages article {
+    width: 20%;
+    margin: 10px;
+    vertical-align: top;
+    padding: 35px;
+}
+
+#languages article:hover {
+    box-shadow: rgba(119, 119, 119, .25) 0 10px 20px 0;
+    cursor: pointer;
+    padding: 35px;
+}
+
+#languages article:hover i {
+    color: #080d29;
+}
+
+#languages article i {
+    font-size: 70px;
+    color: #575757;
+    margin-bottom: 20px;
+}
+
+#build-with-love article p, #build-with-love h2, #languages article p {
+    text-align: left;
+}
+
+#languages h1 {
+    padding: 15px;
+    border-bottom: 1.1px solid #575757;
+    color: #575757;
+    width: 10%;
+    margin: 0 auto;
+}
+
+#languages p, body, ul {
+    color: #575757;
+}
+
+#separator {
+    border: 0.5px solid #575757;
+    background: #575757;
+    width: 60%;
+    margin: 0 auto;
+}
+
+#build-with-love {
+    margin: 60px auto;
+    background: #fff;
+    text-align: center;
+    width: 80%;
+    padding-bottom: 80px;
+    font-size: 1.2rem;
+}
+
+#build-with-love article:hover {
+    cursor: pointer;
+    color: #080d29;
+}
+
+#build-with-love article, #subscribe article {
+    display: inline-block;
+    padding: 0 30px;
+    vertical-align: top;
+}
+
+#build-with-love article img {
+    width: 279px;
+}
+
+#build-with-love > p {
+    margin-bottom: 52px;
+}
+
+#subscribe {
+    background: #f8f8f8;
+    font-size: 20px;
+}
+
+#subscribe article {
+    width: 45%;
+    text-align: center;
+    padding: 35px;
+}
+
+#subscribe article:nth-child(2) {
+    margin-top: 35px;
+}
+
+#subscribe article p {
+    margin-left: -7px;
+}
+
+#subscribe article input {
+    outline: 0;
+    padding: 19px 33px;
+    border-radius: 15px;
+    border: 1px solid #e6e2e2;
+    font-size: 20px;
+}
+
+#subscribe article button {
+    background: linear-gradient(#fff, #132e4f);
+    border: 0;
+    padding: 20px;
+    border-radius: 0 15px 15px 0;
+    margin-left: -22px;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    outline: none;
+}
+
+footer {
+    background-image: url("images/home-page-apply.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 50px 25px 25px;
+    font-size: 18px;
+}
+
+footer #social {
+    display: inline-block;
+}
+
+footer #social i {
+    color: #fff;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+footer a {
+    color: #fff;
+    font-style: italic;
+    text-decoration: none;
+    font-size: 20px;
+}

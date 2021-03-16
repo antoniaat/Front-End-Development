@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+
+body {
+    margin: 0;
+    font-family: 'Special Elite', cursive;
+    font-size: 25px;
+}
+
+header {
+    background: url("images/header-background.jpg");
+}
+
+header nav {
+    background: white;
+    width: 100%;
+    text-align: right;
+    text-decoration: none;
+    margin: 0px;
+    padding: 25px 0px;
+    position: relative;
+}
+
+#logo {
+    float: left;
+    width: 64px;
+    height: 62px;
+    position: relative;
+    left: 35px;
+    top: -7px;
+}
+
+header nav ul {
+    margin-right: 25px;
+}
+
+header nav ul li {
+    display: inline-block;
+    text-decoration: none;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #2B4671;
+    padding: 15px;
+    text-transform: capitalize;
+}
+
+#main-header {
+    text-align: center;
+    height: 500px;
+}
+
+#main-header i {
+    font-size: 53px;
+    position: relative;
+    left: 619px;
+    top: 200px;
+}
+
+#main-header i:first-child {
+    font-size: 53px;
+    position: relative;
+    left: -619px;
+    top: 200px;
+}
+
+#main-header h1 {
+
+}
+
+#main-header * {
+    color: white;
+    padding-top: 30px;
+}
+
+#about {
+    text-align: center;
+    vertical-align: top;
+}
+
+#about article {
+    text-align: left;
+    width: 40%;
+    display: inline-block;
+    padding-left: 145px;
+}
+
+#about article p {
+    text-align: left;
+}
+
+#about article h2 {
+    border-bottom: 2px solid #2B4671;
+    text-align: left;
+    padding-bottom: 12px;
+    width: 30%;
+    line-height: 48px;
+}
+
+#about article img {
+    width: 45%;
+    padding-left: 52px;
+}
+
+#about button {
+    background: #2B4671;
+    color: white;
+    border: none;
+    padding: 18px 29px;
+    font-size: 20px;
+    border-radius: 44px;
+    outline: none;
+}
+
+#services {
+    margin-top: 80px;
+    background-image: url(images/services.jpg);
+    text-align: center;
+    padding: 40px 0;
+}
+
+#services * {
+    color: white;
+}
+
+#services article {
+    display: inline-block;
+    width: 20%;
+    margin: 0 auto;
+    border-right: 1px solid white;
+}
+
+#information {
+    text-align: center;
+    padding: 60px;
+    font-size: 1.2rem;
+}
+
+#information h2 {
+    text-align: left;
+}
+
+ #information p {
+    text-align: justify;
+}
+
+#information img {
+    width: 65%;
+    padding-left: 80px;
+    border-radius: 50%;
+    padding-top: 80px;
+}
+
+#information article {
+    display: inline-block;
+    width: 43%;
+    vertical-align: top;
+}
+
+footer {
+    background-image: url(images/services.jpg);    padding: 6px 0;
+    text-align: center;
+    font-size: 1.3rem;
+    padding-top: 33px;
+}
+
+footer i {
+    padding-left: 10px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer * {
+    color: white;
+}

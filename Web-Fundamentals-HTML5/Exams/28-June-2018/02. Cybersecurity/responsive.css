@@ -1,0 +1,47 @@
+@media screen and (max-width: 768px) {
+    #logo {
+        display: none;
+    }
+
+    header nav ul li {
+        display: block;
+        padding-bottom: 10px;
+    }
+
+    header nav {
+        text-align: center;
+    }
+
+    #about article {
+        text-align: left;
+        width: auto;
+        padding: 30px;
+    }
+
+    #about article img {
+        display: none;
+    }
+
+    #services {
+        margin: 0;
+    }
+
+    #services article {
+        width: 33%;
+    }
+
+
+    #information {
+        padding: 30px;
+    }
+
+    #information article {
+        display: block;
+        width: auto;
+        vertical-align: top;
+    }
+}
+
+
+
+
