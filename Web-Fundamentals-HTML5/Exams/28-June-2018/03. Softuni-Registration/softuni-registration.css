@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    background: #F4F5F7;
+    width: 100%;
+    font-family: 'Lato', 'Arial', sans-serif;
+}
+
+main {
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#logo {
+    width: 8%;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+main article img {
+    width: 12%;
+}
+
+form {
+    width: 80%;
+    text-align: center;
+    margin: 30px auto;
+    background: white;
+    padding: 20px;
+    color: #bbb;
+}
+
+form > span {
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+
+form span p {
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+}
+
+#registration {
+    font-weight: bold;
+    color: #29394C;
+    border-right: 1px solid #29394C;
+}
+
+form label {
+    display: inline-block;
+    width: 34%;
+    border-bottom: 1px solid #29394C;
+    margin: 33px;
+    text-align: left;
+    letter-spacing: 4px;
+}
+
+form label:hover {
+    border-bottom: 1px solid #99D0FB;
+    cursor: pointer;
+}
+
+label input:hover {
+    cursor: pointer;
+}
+
+form label input {
+    border: none;
+    outline: none;
+}
+
+form button {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    background: #44A9F8;
+    padding: 12px 25px;
+    color: white;
+    border: none;
+    box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
+}
+
+form button:hover {
+    background: #565656;
+    cursor: pointer;
+}
+
+footer {
+    text-align: center;
+    margin: -30px auto;
+    margin-bottom: 70px;
+}
+
+footer article{
+    display: inline-block;
+    width: 23%;
+    margin: -2px;
+}
+
+footer p {
+    display: inline;
+}
+
+footer article:first-child {
+    background: #48629C;
+    color: white;
+    padding: 15px 77px;
+}
+
+footer article:nth-child(2) {
+    background: #DB4B38;
+    color: white;
+    padding: 15px 80px;
+}
+
+footer article:first-child:hover,
+footer article:nth-child(2):hover {
+    background: #6DCCF3;
+    cursor: pointer;
+}
+
+footer article i {
+    margin-right: 10px;
+}

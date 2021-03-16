@@ -1,0 +1,45 @@
+body {
+    background-size: cover;
+    background: url(images/background.png) center;
+    color: white;
+}
+
+p {
+    font-family: 'Arial', sans-serif;
+    font-weight: lighter;
+}
+
+main {
+    width: 90%;
+    margin: 80px auto;
+}
+
+main section {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+
+main img {
+    width: 120px;
+    height: 120px;
+    cursor: pointer;
+}
+
+.nested-menu {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.nested-menu img {
+    width: 58px;
+    height: 58px;
+}
+
+.nested-menu p {
+    padding-top: 10px;
+}
+
+section {
+    margin-left: 40px;
+}
